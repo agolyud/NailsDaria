@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582477047560",
+    "project_id": "nails-c4cfb",
+    "storage_bucket": "nails-c4cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582477047560:android:c578661a1d466ea2d66ebd",
+        "android_client_info": {
+          "package_name": "com.example.nailsdaria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCq-ef363AxIj09CqVs2n9dHSDR-sYYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
